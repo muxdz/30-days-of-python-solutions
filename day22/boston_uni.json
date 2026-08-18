@@ -1,0 +1,41 @@
+{
+    "title": "BU Facts & Stats | Office of the President",
+    "facts": [
+        {
+            "name": "BU Facts & Stats",
+            "value": "A quick, by-the-numbers overview of Boston University and our community for fiscal year 2025."
+        },
+        {
+            "name": "Research Expenditures",
+            "value": "$ 641 M"
+        },
+        {
+            "name": "Study Abroad Programs",
+            "value": "170 +"
+        },
+        {
+            "name": "Sponsored Research Awards",
+            "value": "$ 574 M"
+        },
+        {
+            "name": "Classrooms",
+            "value": "848"
+        },
+        {
+            "name": "Buildings",
+            "value": "345"
+        },
+        {
+            "name": "Laboratories",
+            "value": "1,547"
+        },
+        {
+            "name": "Libraries",
+            "value": "13"
+        },
+        {
+            "name": "Campus Area (acres)",
+            "value": "141"
+        }
+    ]
+}
